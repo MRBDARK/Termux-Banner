@@ -39,6 +39,6 @@
 
 
 ## ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ
-<br>
-  <a href= https://instagram.com/d4rk_mods
+
+# https://instagram.com/d4rk_mods
 
