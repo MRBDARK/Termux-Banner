@@ -1,9 +1,12 @@
 # Termux Banner
-#Script by Parixit Sutariya
+
+
+𝗗𝟰𝗥𝗞𝗠𝝝𝗗𝗦 
 
 ## Installation :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+
+1) git clone https://github.com/MRBDARK/Termux-Banner.git
 
 
 2) cd Termux-Banner
@@ -29,13 +32,13 @@
 2) Done !!!
 
 
-## Tutorial :
-<p>
-  <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
-  </p>
+ 𝗗𝟰𝗥𝗞𝗠𝝝𝗗𝗦
+
+  
 
 
-## Download App
+
+## ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ
 <br>
-  <a href="https://bit.ly/termuxdetective"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_detective.gif" alt="Termux Detective" width="900" height="60"></a>
-  <br>
+  <a href= https://instagram.com/d4rk_mods
+
